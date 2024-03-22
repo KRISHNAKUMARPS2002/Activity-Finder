@@ -21,7 +21,5 @@ This project is a web application that helps users find interesting activities b
 - Body-parser for handling form data
 - HTML, CSS, and JavaScript for frontend design and functionality
 
-## Getting Started
 
-1. Clone the repository to your local machine:
 
